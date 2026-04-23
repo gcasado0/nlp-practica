@@ -27,3 +27,4 @@ sentence-transformers
 sentiment-analysis-spanish 
 stanza 
 gliner
+torch
