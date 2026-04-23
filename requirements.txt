@@ -17,3 +17,13 @@ ipywidgets
 fastparquet
 panel
 jupyter_bokeh
+spacy 
+python-Levenshtein 
+thefuzz 
+jellyfish 
+nltk 
+transformers 
+sentence-transformers 
+sentiment-analysis-spanish 
+stanza 
+gliner
