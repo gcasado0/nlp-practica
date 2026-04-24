@@ -28,3 +28,4 @@ sentiment-analysis-spanish
 stanza 
 gliner
 torch
+googletrans
