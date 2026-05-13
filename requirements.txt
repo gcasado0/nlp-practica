@@ -29,3 +29,9 @@ stanza
 gliner
 torch
 googletrans
+fasttext-langdetect 
+deep-translator 
+gTTS 
+librosa 
+bertopic 
+datasets
