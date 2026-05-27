@@ -14,3 +14,6 @@ source .venv/bin/activate  # En Windows: venv\Scripts\activate
 ```bash
 pip install -r requirements.txt
 ```
+
+sudo systemctl start mongod
+sudo systemctl status mongod
