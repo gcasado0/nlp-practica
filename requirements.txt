@@ -45,3 +45,4 @@ chromadb
 tensorflow_text
 tensorflow_hub
 langchain-text-splitters
+neo4j

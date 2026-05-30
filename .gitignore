@@ -17,3 +17,5 @@ venv/
 *.swp
 *.mp3
 *.out
+.neo4j_data/
+*.yml

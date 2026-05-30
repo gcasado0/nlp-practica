@@ -15,5 +15,8 @@ source .venv/bin/activate  # En Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
+# Iniciar servicio de mongoDB
+```bash
 sudo systemctl start mongod
 sudo systemctl status mongod
+```
