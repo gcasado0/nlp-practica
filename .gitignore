@@ -19,3 +19,4 @@ venv/
 *.out
 .neo4j_data/
 *.yml
+.antigravitycli/
