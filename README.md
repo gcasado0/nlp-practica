@@ -33,12 +33,12 @@ El proyecto utiliza **Neo4j** como base de datos de grafos. Se incluye una confi
 
 1. **Levantar el servicio:**
    ```bash
-   docker compose up -d
+   docker-compose up -d
    ```
 
 2. **Detener el servicio:**
    ```bash
-   docker compose down
+   docker-compose down
    ```
 
 ## Detalles de conexión
